@@ -1,0 +1,57 @@
+/*=== CHANGE-COLOR ===========================================*/
+
+/* color1 */
+#product .content .img-product.changeColor1 {
+  background-image: url(./MASCULINO\ \(5\).jpg);
+}
+
+#product .content .squares .square.s1 {
+  background-image: url(./MASCULINO\ \(5\).jpg);
+}
+
+
+/* color2 */
+#product .content .img-product.changeColor2 {
+  background-image: url(./MASCULINO\ \(6\).jpg);
+}
+
+#product .content .squares .square.s2 {
+  background-image: url(./MASCULINO\ \(6\).jpg);
+}
+
+
+/* color3 */
+#product .content .img-product.changeColor3 {
+  background-image: url(./MASCULINO\ \(18\).jpg);
+}
+
+#product .content .squares .square.s3 {
+  background-image: url(./MASCULINO\ \(18\).jpg);
+}
+
+/* color4 */
+#product .content .img-product.changeColor4 {
+  background-image: url(./MASCULINO\ \(42\).jpg);
+}
+
+#product .content .squares .square.s4 {
+  background-image: url(./MASCULINO\ \(42\).jpg);
+}
+
+/* color5 */
+#product .content .img-product.changeColor5 {
+  background-image: url(./MASCULINO\ \(40\).jpg);
+}
+
+#product .content .squares .square.s5 {
+  background-image: url(./MASCULINO\ \(40\).jpg);
+}
+
+/* color6 */
+#product .content .img-product.changeColor6 {
+  background-image: url(./MASCULINO\ \(41\).jpg);
+}
+
+#product .content .squares .square.s6 {
+  background-image: url(./MASCULINO\ \(41\).jpg);
+}
