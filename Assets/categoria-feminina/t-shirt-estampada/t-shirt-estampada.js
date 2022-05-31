@@ -10,10 +10,7 @@ function changeColor1() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor1')
 
@@ -25,9 +22,6 @@ function changeColor1() {
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s1').classList.add('focus')
 }
 
@@ -43,10 +37,7 @@ function changeColor2() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12' 
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor2')
 
@@ -58,9 +49,6 @@ function changeColor2() {
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s2').classList.add('focus')
 }
 
@@ -76,10 +64,7 @@ function changeColor3() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'   
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor3')
 
@@ -91,9 +76,6 @@ function changeColor3() {
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s3').classList.add('focus')
 }
 
@@ -109,12 +91,7 @@ function changeColor4() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12',
-      'changeColor13',
-      'changeColor14'    
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor4')
 
@@ -126,11 +103,6 @@ function changeColor4() {
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
-  document.querySelector('.s13').classList.remove('focus')
-  document.querySelector('.s14').classList.remove('focus')
   document.querySelector('.s4').classList.add('focus')
 }
 
@@ -146,10 +118,7 @@ function changeColor5() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor5')
 
@@ -161,9 +130,6 @@ function changeColor5() {
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s5').classList.add('focus')
 }
 
@@ -179,10 +145,7 @@ function changeColor6() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor6')
 
@@ -194,9 +157,6 @@ function changeColor6() {
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s6').classList.add('focus')
 }
 
@@ -212,10 +172,7 @@ function changeColor7() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor7')
 
@@ -227,9 +184,6 @@ function changeColor7() {
   document.querySelector('.s6').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s7').classList.add('focus')
 }
 
@@ -245,10 +199,7 @@ function changeColor8() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'  
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor8')
 
@@ -260,9 +211,6 @@ function changeColor8() {
   document.querySelector('.s6').classList.remove('focus')
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s8').classList.add('focus')
 }
 
@@ -278,10 +226,7 @@ function changeColor9() {
       'changeColor6',
       'changeColor7',
       'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'   
+      'changeColor9'
     )
   document.querySelector('.img-product').classList.add('changeColor9')
 
@@ -293,107 +238,5 @@ function changeColor9() {
   document.querySelector('.s6').classList.remove('focus')
   document.querySelector('.s7').classList.remove('focus')
   document.querySelector('.s8').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
   document.querySelector('.s9').classList.add('focus')
-}
-
-function changeColor10() {
-  document
-    .querySelector('.img-product')
-    .classList.remove(
-      'changeColor1',
-      'changeColor2',
-      'changeColor3',
-      'changeColor4',
-      'changeColor5',
-      'changeColor6',
-      'changeColor7',
-      'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'  
-    )
-  document.querySelector('.img-product').classList.add('changeColor10')
-
-  document.querySelector('.s1').classList.remove('focus')
-  document.querySelector('.s2').classList.remove('focus')
-  document.querySelector('.s3').classList.remove('focus')
-  document.querySelector('.s4').classList.remove('focus')
-  document.querySelector('.s5').classList.remove('focus')
-  document.querySelector('.s6').classList.remove('focus')
-  document.querySelector('.s7').classList.remove('focus')
-  document.querySelector('.s8').classList.remove('focus')
-  document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
-  document.querySelector('.s10').classList.add('focus')
-}
-
-function changeColor11() {
-  document
-    .querySelector('.img-product')
-    .classList.remove(
-      'changeColor1',
-      'changeColor2',
-      'changeColor3',
-      'changeColor4',
-      'changeColor5',
-      'changeColor6',
-      'changeColor7',
-      'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'  
-    )
-  document.querySelector('.img-product').classList.add('changeColor11')
-
-  document.querySelector('.s1').classList.remove('focus')
-  document.querySelector('.s2').classList.remove('focus')
-  document.querySelector('.s3').classList.remove('focus')
-  document.querySelector('.s4').classList.remove('focus')
-  document.querySelector('.s5').classList.remove('focus')
-  document.querySelector('.s6').classList.remove('focus')
-  document.querySelector('.s7').classList.remove('focus')
-  document.querySelector('.s8').classList.remove('focus')
-  document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s12').classList.remove('focus')
-  document.querySelector('.s11').classList.add('focus')
-}
-
-function changeColor12() {
-  document
-    .querySelector('.img-product')
-    .classList.remove(
-      'changeColor1',
-      'changeColor2',
-      'changeColor3',
-      'changeColor4',
-      'changeColor5',
-      'changeColor6',
-      'changeColor7',
-      'changeColor8',
-      'changeColor9',
-      'changeColor10',
-      'changeColor11',
-      'changeColor12'  
-    )
-  document.querySelector('.img-product').classList.add('changeColor12')
-
-  document.querySelector('.s1').classList.remove('focus')
-  document.querySelector('.s2').classList.remove('focus')
-  document.querySelector('.s3').classList.remove('focus')
-  document.querySelector('.s4').classList.remove('focus')
-  document.querySelector('.s5').classList.remove('focus')
-  document.querySelector('.s6').classList.remove('focus')
-  document.querySelector('.s7').classList.remove('focus')
-  document.querySelector('.s8').classList.remove('focus')
-  document.querySelector('.s9').classList.remove('focus')
-  document.querySelector('.s10').classList.remove('focus')
-  document.querySelector('.s11').classList.remove('focus')
-  document.querySelector('.s12').classList.add('focus')
 }

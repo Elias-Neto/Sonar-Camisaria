@@ -81,28 +81,19 @@
 
 /* square9 */
 #product .content .img-product.changeColor9 {
-  background-image: url(./FEMININO\ \(13\).jpg);
+  background-image: url(./FEMININO\ \(17\).jpg);
 }
 
 #product .content .squares .square.s9 {
-  background-image: url(./FEMININO\ \(13\).jpg);
+  background-image: url(./FEMININO\ \(17\).jpg);
 }
+
 
 /* square10 */
 #product .content .img-product.changeColor10 {
-  background-image: url(./FEMININO\ \(17\).jpg);
-}
-
-#product .content .squares .square.s10 {
-  background-image: url(./FEMININO\ \(17\).jpg);
-}
-
-
-/* square11 */
-#product .content .img-product.changeColor11 {
   background-image: url(./FEMININO\ \(18\).jpg);
 }
 
-#product .content .squares .square.s11 {
+#product .content .squares .square.s10 {
   background-image: url(./FEMININO\ \(18\).jpg);
 }
